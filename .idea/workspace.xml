@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40f4fac1-45ba-494e-beca-fe015359180b" name="Changes" comment="Add explainer text throughout notebook" />
+    <list default="true" id="40f4fac1-45ba-494e-beca-fe015359180b" name="Changes" comment="Add requirements.txt for venv">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/wine_quality_prediction_model-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/wine_quality_prediction_model-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wine_quality_prediction_model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/wine_quality_prediction_model.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736644942788</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add requirements.txt for venv">
+      <option name="closed" value="true" />
+      <created>1736645494533</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736645494533</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,7 +170,8 @@
     <MESSAGE value="create user-interaction feature" />
     <MESSAGE value="add test run of model application" />
     <MESSAGE value="Add explainer text throughout notebook" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add explainer text throughout notebook" />
+    <MESSAGE value="Add requirements.txt for venv" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add requirements.txt for venv" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/wine_quality$scratch_1.coverage" NAME="scratch_1 Coverage Results" MODIFIED="1736454889521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
